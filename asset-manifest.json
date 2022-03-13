@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digital-clock/static/css/main.857a3bb7.css",
+    "main.js": "/digital-clock/static/js/main.3405308a.js",
+    "static/media/digital-7.regular-webfont.woff": "/digital-clock/static/media/digital-7.regular-webfont.6b68e3498561c3c97ed0.woff",
+    "static/media/digital-7.regular-webfont.woff2": "/digital-clock/static/media/digital-7.regular-webfont.a9e652337f5df40b9776.woff2",
+    "index.html": "/digital-clock/index.html",
+    "main.857a3bb7.css.map": "/digital-clock/static/css/main.857a3bb7.css.map",
+    "main.3405308a.js.map": "/digital-clock/static/js/main.3405308a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.857a3bb7.css",
+    "static/js/main.3405308a.js"
+  ]
+}
